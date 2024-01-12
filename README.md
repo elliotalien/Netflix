@@ -17,13 +17,6 @@ Welcome to my Netflix clone project! This project is a simple recreation of the 
 - **CSS**: Stylesheet language for styling the HTML elements.
 - **GitHub Pages**: Hosting the project directly from this GitHub repository.
 
-## Screenshots
-
-Include screenshots or GIFs showcasing the Netflix clone project.
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-
 ## Usage
 
 1. **Clone the Repository:**
