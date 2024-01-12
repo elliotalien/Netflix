@@ -1,35 +1,32 @@
 # Netflix Clone
 
-![GitHub stars](https://img.shields.io/github/stars/elliotalien/netflix-clone?style=social)
-![GitHub forks](https://img.shields.io/github/forks/elliotalien/netflix-clone?style=social)
+![GitHub stars](https://img.shields.io/github/stars/elliotalien/netflix?style=social)
+![GitHub forks](https://img.shields.io/github/forks/elliotalien/netflix?style=social)
 
-This project is a clone of the Netflix web application, created for learning purposes and to showcase frontend development skills.
+Welcome to my Netflix clone project! This project is a simple recreation of the Netflix user interface using HTML and CSS.
 
 ## Features
 
-- **User Authentication**: Sign up, log in, and log out functionalities.
-- **Movie Categories**: Browse movies based on different genres.
-- **Movie Details**: View details about each movie, including the cast and storyline.
-- **Responsive Design**: The application is designed to work seamlessly on various screen sizes.
-- **Trailer Integration**: Watch trailers for selected movies.
+- **Main Interface**: Replicates the Netflix homepage layout.
+- **Responsive Design**: Adapts to different screen sizes for an optimal viewing experience.
+- **CSS Styling**: Utilizes CSS for styling and layout, achieving a close resemblance to the original Netflix design.
 
 ## Technologies Used
 
-- **React**: Frontend library for building user interfaces.
-- **Firebase**: Backend services for authentication and database storage.
-- **TMDB API**: The Movie Database API for fetching movie information.
-- **CSS**: Styling the components for a visually appealing interface.
+- **HTML**: Markup language for creating the structure of the webpage.
+- **CSS**: Stylesheet language for styling the HTML elements.
+- **GitHub Pages**: Hosting the project directly from this GitHub repository.
 
 ## Screenshots
 
-Include some screenshots or GIFs showcasing different sections of your Netflix clone.
+Include screenshots or GIFs showcasing the Netflix clone project.
 
 ![Screenshot 1](path/to/screenshot1.png)
 ![Screenshot 2](path/to/screenshot2.png)
 
-## Getting Started
+## Usage
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/elliotalien/netflix-clone.git
+   git clone https://github.com/elliotalien/netflix.git
