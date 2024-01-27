@@ -5,7 +5,7 @@
 
 Welcome to my Netflix clone project! This project is a simple recreation of the Netflix user interface using HTML and CSS.
 
- [live](https://elliotalien.github.io/NetflixClone/)
+# [live](https://elliotalien.github.io/NetflixClone/)
 
 ## Features
 
